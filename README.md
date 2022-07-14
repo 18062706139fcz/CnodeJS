@@ -1,4 +1,6 @@
-# wangyiyun
+# CnodeJS
+
++ 这个项目是一个Vue的论坛练手项目。
 
 ### 这个项目是@[林水溶大佬](https://github.com/shuiRong)写的
 
